@@ -4,7 +4,6 @@ import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button';
 import axios from 'axios';
 import { useState } from 'react';
-
 let resArray = [];
 
 function App() {
@@ -19,7 +18,7 @@ function App() {
 
   return (
     <div className='flex flex-col items-center h-screen justify-center'>
-      <img src="/src/assets/logo.png" alt="pic" className='w-80 sm:w-200' />
+      <img src="src/logo.png" alt="pic" className='w-80 sm:w-200' />
       <p className='text-center text-gray-700 mb-8 p-4 max-w-lg'>
         If you have a doubt whether a Codeforces Account is Cheating or not, you can use this site to find that out. This site checks if the user has cheated based on whether they have a skipped submission in a contest or not. A submission gets skipped when the code has been copy-pasted from someone else. Please don't cheat in contests!!!!!
       </p>
