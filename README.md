@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+If you have a doubt whether a Codeforces Account is Cheating or not, you can use this site to find that out. This site checks if the user has cheated based on whether they have a skipped submission in a contest or not. A submission gets skipped when the code has been copy-pasted from someone else. Please don't cheat in contests!!!!!
