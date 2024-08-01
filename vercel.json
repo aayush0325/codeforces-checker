@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/codeforces-checker/assets/(.*)",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/javascript"
+        }
+      ]
+    }
+  ]
+}
